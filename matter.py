@@ -506,7 +506,7 @@ def do_install():
     update_grub_defaults()
     do_set_icons()
     update_grub_cfg()
-    info(f"{THEME_NAME} succesfully installed")
+    info(f"{THEME_NAME} was successfully installed")
 
 
 def do_uninstall():
@@ -516,7 +516,7 @@ def do_uninstall():
     clean_grub_mkconfig()
     clean_install_dir()
     update_grub_cfg()
-    info(f"{THEME_NAME} succesfully uninstalled")
+    info(f"{THEME_NAME} was successfully uninstalled")
 
 
 def do_list_grub_cfg_entries():
