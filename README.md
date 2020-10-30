@@ -4,7 +4,7 @@ Minimalist grub theme originally inspired by material design 2.
 
 ![Matter Gif](.docs/matter.gif)
 
-Feel free open issues for any problem or request you have and/or submit pull
+Feel free to open issues for any problem or request you have and/or submit pull
 requests.
 
 # Index
